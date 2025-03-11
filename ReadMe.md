@@ -6,6 +6,11 @@ Welcome to the **250+ Coding Interview Questions (DSA) - Java** repository! 🚀
 
 This repository is structured into multiple categories to help you prepare effectively for coding interviews. Each section contains well-explained solutions in **Java**, ensuring a solid understanding of key programming concepts.
 
+🚀📜 **Java Cheat Sheet** 🔥
+
+![image](https://github.com/user-attachments/assets/6632b834-ed59-4ae2-a3e1-2156e425e3d1)
+
+
 ## 📊 Topics Covered
 
 | **Category**                 | **Topics** |
