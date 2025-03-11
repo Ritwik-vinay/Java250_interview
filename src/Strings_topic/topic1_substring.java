@@ -6,7 +6,7 @@ public class topic1_substring {
     public static void main(String[] args) {
         //revise it again
         //Longest Substring Without Repeating Characters
-        String s = "kajhsdhd";
+        String s = "121333";
         int maxlength = findlongestsubstring(s);
         System.out.println(maxlength);
     }
