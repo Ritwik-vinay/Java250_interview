@@ -1,3 +1,5 @@
+package String2_topic;
+
 public class PalindromeString_Check {
 
     public static void main(String[] args) {
