@@ -17,7 +17,15 @@ public class twoNumberEqual {
         System.out.println(b>a);
         System.out.println(num>b);
         //5. Use logical AND (&&) to check two conditions.
-        System.out.println();
+        if (s.matches(n) && n.matches(s)){
+            System.out.println("Matching");
+        }
+        else
+        {
+            System.out.println("No Matching");
+        }
+        //6.	Use logical OR (||) to check if either condition is true.
+
 
     }
 }
