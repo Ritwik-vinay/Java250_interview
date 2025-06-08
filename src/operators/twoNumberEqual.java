@@ -8,6 +8,7 @@ public class twoNumberEqual {
         int num= 10;
         String s= "a";
         String n= "b";
+        String n2="a";
         System.out.println(a==b);
         System.out.println(a==num);
         //3.Use != to check if values are not equal
@@ -25,6 +26,16 @@ public class twoNumberEqual {
             System.out.println("No Matching");
         }
         //6.	Use logical OR (||) to check if either condition is true.
+        if (s.matches(n2) || n.matches(s)){
+            System.out.println("Matching");
+        }
+        else
+        {
+            System.out.println("No Matching");
+        }
+        //7.	Increment and decrement a number using ++ and --.
+        System.out.println(a++);
+        System.out.println(++a);
 
 
     }
