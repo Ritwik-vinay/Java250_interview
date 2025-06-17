@@ -29,5 +29,6 @@ public class StringVowelAndConsonent {
         }
         System.out.println(vCount);
         System.out.println(cCount);
+        sc.close();
     }
 }

@@ -26,5 +26,6 @@ public class StringVowel_Cons {
         }
         System.out.println(vCount );
         System.out.println(cCount);
+        sc.close();
     }
 }
