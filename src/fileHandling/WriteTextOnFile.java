@@ -8,7 +8,11 @@ public class WriteTextOnFile {
     public static void main(String[] args) {
         try {
             FileWriter writer = new FileWriter("D:\\simple.txt");
-            writer.write("I am writing the File in the filewriter");
+            writer.write("I am writing the File in the filewriter\n");
+
+            writer.write("The Ritwik vinay is Billaniore\n");
+            writer.write(" The Ritwik vinay\n");
+            writer.write("4rth line\n");
             writer.close();
             System.out.println("New File is written");
         }
