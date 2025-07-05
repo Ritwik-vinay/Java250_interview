@@ -1,9 +1,5 @@
 # 🚀 Java Fundamentals & Coding Interview Mastery
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Ritwik-vinay/Coding_Interview_250)
-![GitHub Stars](https://img.shields.io/github/stars/Ritwik-vinay/Coding_Interview_250)
-![GitHub Forks](https://img.shields.io/github/forks/Ritwik-vinay/Coding_Interview_250)
-
 A comprehensive repository dedicated to **mastering Java programming fundamentals** and **acing coding interviews**, through structured exercises, book-based learning, and real-world problem-solving.
 
 ---
