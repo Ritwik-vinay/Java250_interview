@@ -1,4 +1,4 @@
-package JavaWeek1;
+package Chapter_1_;
 
 public class PhasOMatric {
     public static void main(String[] args) {
