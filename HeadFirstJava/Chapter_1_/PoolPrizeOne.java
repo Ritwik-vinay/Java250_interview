@@ -1,3 +1,5 @@
+package Chapter_1_;
+
 public class PoolPrizeOne {
     public static void main(String[] args) {
         int x=0;
