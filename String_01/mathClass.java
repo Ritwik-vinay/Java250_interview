@@ -19,5 +19,13 @@ public class mathClass {
         int randomNum= num1+(int)(Math.random()*((num1 -number2)+1));
         System.out.println(randomNum);
 
+        try {
+            int a= 10/0;
+            System.out.println(a);
+        }
+        catch (ArithmeticException e){
+            System.out.println(e.getMessage());
+        }
+
     }
 }
