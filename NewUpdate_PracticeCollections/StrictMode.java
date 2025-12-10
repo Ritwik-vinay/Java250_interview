@@ -11,5 +11,6 @@ public class StrictMode {
         finally {
             System.out.println("I am finally i will be executed anyhow");
         }
+
     }
 }
